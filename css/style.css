@@ -1,0 +1,31 @@
+body{
+  display: block;
+
+}
+
+.navbar {
+  background-color: #001d3d;
+  overflow: visible;
+}
+
+
+.navbar a {
+  float: none;
+  color: rgb(231, 219, 219);
+}
+
+nav ul li a{
+  color: #a9a9a9;
+  font-size: 40px;
+  margin-left: 50%;
+
+}
+
+nav ul li a:hover{
+  color: #2245ba;
+}
+
+ h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+  font-size: 5rem !important;
+} 
