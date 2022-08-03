@@ -18,11 +18,17 @@ nav ul li a{
   color: #a9a9a9;
   font-size: 40px;
   margin-left: 50%;
-
 }
 
-nav ul li a:hover{
-  color: #2245ba;
+a.nav-link:hover{
+color: red;
+}
+
+a.dropdown-item{
+  color: black;
+}
+a.dropdown-item:hover{
+  color: blue;
 }
 
  h1 {
