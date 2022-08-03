@@ -1,3 +1,5 @@
+@media only screen and (max-width: 600px) {#main {margin-left: 0}}
+
 body{
   display: block;
 
@@ -21,7 +23,7 @@ nav ul li a{
 }
 
 a.nav-link:hover{
-color: red;
+color: #f94144;
 }
 
 a.dropdown-item{
@@ -35,3 +37,9 @@ a.dropdown-item:hover{
   font-family: Georgia, 'Times New Roman', Times, serif; 
   font-size: 5rem !important;
 } 
+#carouselDark{
+  margin: auto;
+}
+.date-div{
+  padding-top: 200px;
+}
